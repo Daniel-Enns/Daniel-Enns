@@ -40,10 +40,10 @@
 ### 🌐 Contato
 
 <div> 
-  <a href="SEU_LINK_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/daniel-silva-06233a237" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:enns.silva@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
