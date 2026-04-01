@@ -40,14 +40,26 @@
 ### 🌐 Contato
 
 <div> 
-  <a href=www.linkedin.com/in/daniel-silva-06233a237 target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-silva-06233a237" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:enns.silva@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/5541987276668" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
 
 ---
 
 ![Snake animation](https://github.com/Daniel-Enns/Daniel-Enns/blob/output/github-contribution-grid-snake.svg)
+
+## 🏗️ Arquitetura
+
+- Laravel (Backend)
+- PostgreSQL
+- Queue (Supervisor)
+- Telegram Bot (Polling)
+- Scheduler (Cron)
+- Nginx + PHP-FPM
